@@ -1,0 +1,1 @@
+watch -n 3 "python monitor.py"
